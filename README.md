@@ -24,6 +24,15 @@
 - Live Site URL: https://aleksandre1303.github.io/qr-component.card/
 
 
+# My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+
 ### What I learned
 
 I learned what html and css are and what they are used for, this is my first project
