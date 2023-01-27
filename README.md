@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: https://github.com/aleksandre1303/qr-component.card
-- Live Site URL: https://aleksandre1303.github.io/qr-component.card/
+- Solution URL:  https://github.com/aleksandre1303/qr-component.card
+- Live Site URL: https://aleksandre1303.github.io/qr-component-card/
 
 
 # My process
